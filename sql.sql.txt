@@ -1,0 +1,2 @@
+CREATE TABLE `bnteho`.`info` (`ID` INT NOT NULL , `Name` VARCHAR(50) NOT NULL , `BirthDate` DATE NOT NULL , `Address` VARCHAR(50) NOT NULL );
+INSERT INTO `info` (`ID`, `Name`, `BirthDate`, `Address`) VALUES ('1', 'ali', '2022-12-06', 'basra'), ('2', 'ahmed', '2022-12-13', 'badad'), ('3', 'hussen', '2022-12-16', 'najf');
